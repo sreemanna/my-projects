@@ -1,0 +1,24 @@
+﻿Home Owner,Income Bracket,Credit Score,Default,,#NUM!,,,,,,,,,,,
+Home Owner,Low,Below Average,yes,,,,,,,,,,,Weight,Multiply,Information Gain
+Home Owner,Medium,Average,no,,,Column Labels,,,Entropy,,,,,,,
+Not Owner,High,Average,no,,,no,yes,Grand Total,,,,,,,,
+Not Owner,Low,High,yes,,Count of Default,44.44%,55.56%,100.00%,,,,,,,,
+Home Owner,Medium,Average,no,,,44.44%,55.56%,,0.991,,,,,0,0,
+Home Owner,High,Below Average,yes,,,,,,,,,,,,,
+Not Owner,Low,Below Average,yes,,Count of Default,Column Labels,,,Entropy,,,,,,,
+Not Owner,Medium,Average,yes,,Row Labels,no,yes,Grand Total,,,,,,,,
+Home Owner,High,High,no,,Average,60.00%,40.00%,100.00%,0.971,,,60.00%,40.00%,0.556,0.539416997,
+Home Owner,Low,High,yes,,Below Average,0.00%,100.00%,100.00%,0.000,,,0.00%,100.00%,0.222,0,
+Not Owner,Medium,Average,no,,High,50.00%,50.00%,100.00%,1.000,,,50.00%,50.00%,0.222,0.222222222,
+Not Owner,High,High,no,,Grand Total,44.44%,55.56%,100.00%,0.991,,,44.44%,55.56%,0.000,0.761639219,0.229
+Home Owner,Low,Below Average,yes,,Count of Default,Column Labels,,,Entropy,,,,,,,
+Home Owner,Medium,Average,no,,Row Labels,no,yes,Grand Total,,,,,,,,
+Not Owner,High,Average,yes,,High,66.67%,33.33%,100.00%,0.918,,,66.67%,33.33%,0.333,0.306098611,
+Not Owner,Low,Average,yes,,Low,0.00%,100.00%,100.00%,0.000,,,0.00%,100.00%,0.389,0,
+Not Owner,Low,Average,yes,,Medium,80.00%,20.00%,100.00%,0.722,,,80.00%,20.00%,0.278,0.200535582,
+Not Owner,High,Average,no,,Grand Total,44.44%,55.56%,100.00%,0.991,,,44.44%,55.56%,0.000,0.506634193,0.484
+,,,,,Count of Default,Column Labels,,,,,,,,,,
+,,,,,Row Labels,no,yes,Grand Total,Entropy,,,,,,,
+,,,,,Home Owner,50.00%,50.00%,100.00%,1.00,,,50.00%,50.00%,0.444444444,0.444444444,
+,,,,,Not Owner,40.00%,60.00%,100.00%,0.97,,,40.00%,60.00%,0.555555556,0.539416997,
+,,,,,Grand Total,44.44%,55.56%,100.00%,0.99,,,44.44%,55.56%,0,0.983861441,0.007
